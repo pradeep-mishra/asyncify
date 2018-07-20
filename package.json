@@ -1,0 +1,11 @@
+{
+    "name": "asyncify",
+    "description": "Wrap normal module in async function to support async and await on root level without putting code inside async function",
+    "version": "0.0.1",
+    "author": "Pradeep Mishra <pradeep23oct@gmail.com>",
+    "private": false,
+    "dependencies": {},
+    "license": "MIT",
+    "devDependencies": {},
+    "scripts": {}
+}
